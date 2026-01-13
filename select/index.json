@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "風に吹かれて",
+  "base_artist": "Haruka Fukuhara",
+  "createdAt": "2026-01-13T23:00:25.967500Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "風に吹かれて",
+      "artist": "Seiko Matsuda",
+      "has_synced": false,
+      "path": "select/01_風に吹かれて_Seiko_Matsuda.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "風に吹かれて",
+      "artist": "森高千里",
+      "has_synced": true,
+      "path": "select/02_風に吹かれて_森高千里.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "風に吹かれて",
+      "artist": "Moritaka, Chisato",
+      "has_synced": true,
+      "path": "select/03_風に吹かれて_Moritaka,_Chisato.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "風に吹かれて",
+      "artist": "奥井雅美",
+      "has_synced": false,
+      "path": "select/04_風に吹かれて_奥井雅美.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "風に吹かれて",
+      "artist": "Okui, Masami",
+      "has_synced": false,
+      "path": "select/05_風に吹かれて_Okui,_Masami.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "風に吹かれて",
+      "artist": "Elephant Kashimashi",
+      "has_synced": true,
+      "path": "select/06_風に吹かれて_Elephant_Kashimashi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "風に吹かれて",
+      "artist": "エレファントカシマシ",
+      "has_synced": true,
+      "path": "select/07_風に吹かれて_エレファントカシマシ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "風に吹かれて - Kaze Ni Fukarete",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/08_風に吹かれて_-_Kaze_Ni_Fukarete_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ROCKDOM —風に吹かれて—",
+      "artist": "THE ALFEE",
+      "has_synced": false,
+      "path": "select/09_ROCKDOM_—風に吹かれて—_THE_ALFEE.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ROCKDOM —風に吹かれて—",
+      "artist": "Alfee, The",
+      "has_synced": false,
+      "path": "select/10_ROCKDOM_—風に吹かれて—_Alfee,_The.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "風に吹かれて",
+      "artist": "JUDY AND MARY",
+      "has_synced": false,
+      "path": "select/11_風に吹かれて_JUDY_AND_MARY.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "風に吹かれて・・・~「ワークマン」CMヴァージョン~",
+      "artist": "吉幾三",
+      "has_synced": false,
+      "path": "select/12_風に吹かれて・・・~「ワークマン」CMヴァージョン~_吉幾三.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "風に吹かれて",
+      "artist": "Chisato Moritaka",
+      "has_synced": true,
+      "path": "select/13_風に吹かれて_Chisato_Moritaka.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Voyage a Paris～風に吹かれて～",
+      "artist": "手嶌葵",
+      "has_synced": false,
+      "path": "select/14_Voyage_a_Paris~風に吹かれて~_手嶌葵.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Voyage a Paris～風に吹かれて～",
+      "artist": "Teshima, Aoi",
+      "has_synced": false,
+      "path": "select/15_Voyage_a_Paris~風に吹かれて~_Teshima,_Aoi.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "風に吹かれて",
+      "artist": "Juice=Juice",
+      "has_synced": true,
+      "path": "select/16_風に吹かれて_Juice=Juice.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "風に吹かれて (Instrumental)",
+      "artist": "Juice=Juice",
+      "has_synced": true,
+      "path": "select/17_風に吹かれて_(Instrumental)_Juice=Juice.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風に吹かれて",
+      "artist": "福原遥",
+      "has_synced": false,
+      "path": "select/pl_01_風に吹かれて_福原遥.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "風に吹かれて",
+      "artist": "福原遥",
+      "has_synced": false,
+      "path": "select/pl_02_風に吹かれて_福原遥.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "風に吹かれて",
+      "artist": "福原遥",
+      "has_synced": false,
+      "path": "select/pl_03_風に吹かれて_福原遥.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "風に吹かれてTVsize",
+      "artist": "福原遥",
+      "has_synced": false,
+      "path": "select/pl_04_風に吹かれてTVsize_福原遥.txt"
+    }
+  ]
+}
